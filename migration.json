@@ -1,5 +1,4 @@
-﻿{
-    "Tabelle7": [
+ [
         {
             "origin_cluster": "1",
             "destination_cluster": "1",
@@ -3457,4 +3456,3 @@
             "Migration_count": "180380"
         }
     ]
-}
