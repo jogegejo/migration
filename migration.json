@@ -1,0 +1,3460 @@
+﻿{
+    "Tabelle7": [
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "1995",
+            "Migration_count": "97822"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "1996",
+            "Migration_count": "100473"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "1997",
+            "Migration_count": "102137"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "1998",
+            "Migration_count": "105099"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "1999",
+            "Migration_count": "112746"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2000",
+            "Migration_count": "112970"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2001",
+            "Migration_count": "115358"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2002",
+            "Migration_count": "114440"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2003",
+            "Migration_count": "118550"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2004",
+            "Migration_count": "119253"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2005",
+            "Migration_count": "121037"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2006",
+            "Migration_count": "125052"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2007",
+            "Migration_count": "128757"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2008",
+            "Migration_count": "127439"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2009",
+            "Migration_count": "134149"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "1",
+            "year": "2010",
+            "Migration_count": "134104"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "1995",
+            "Migration_count": "50893"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "1996",
+            "Migration_count": "55697"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "1997",
+            "Migration_count": "65095"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "1998",
+            "Migration_count": "67500"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "1999",
+            "Migration_count": "63977"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2000",
+            "Migration_count": "57593"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2001",
+            "Migration_count": "53903"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2002",
+            "Migration_count": "53933"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2003",
+            "Migration_count": "55000"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2004",
+            "Migration_count": "54956"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2005",
+            "Migration_count": "52748"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2006",
+            "Migration_count": "49469"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2007",
+            "Migration_count": "48973"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2008",
+            "Migration_count": "47265"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2009",
+            "Migration_count": "48685"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "2",
+            "year": "2010",
+            "Migration_count": "47052"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "1995",
+            "Migration_count": "29591"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "1996",
+            "Migration_count": "28774"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "1997",
+            "Migration_count": "29585"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "1998",
+            "Migration_count": "30022"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "1999",
+            "Migration_count": "30473"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2000",
+            "Migration_count": "30528"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2001",
+            "Migration_count": "31611"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2002",
+            "Migration_count": "32646"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2003",
+            "Migration_count": "33870"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2004",
+            "Migration_count": "33828"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2005",
+            "Migration_count": "34252"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2006",
+            "Migration_count": "35285"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2007",
+            "Migration_count": "36704"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2008",
+            "Migration_count": "35067"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2009",
+            "Migration_count": "38037"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "3",
+            "year": "2010",
+            "Migration_count": "37854"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "1995",
+            "Migration_count": "12346"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "1996",
+            "Migration_count": "12152"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "1997",
+            "Migration_count": "12200"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "1998",
+            "Migration_count": "11795"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "1999",
+            "Migration_count": "11537"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2000",
+            "Migration_count": "11698"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2001",
+            "Migration_count": "11847"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2002",
+            "Migration_count": "13090"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2003",
+            "Migration_count": "13866"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2004",
+            "Migration_count": "14476"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2005",
+            "Migration_count": "13710"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2006",
+            "Migration_count": "13714"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2007",
+            "Migration_count": "14664"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2008",
+            "Migration_count": "13434"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2009",
+            "Migration_count": "15837"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "4",
+            "year": "2010",
+            "Migration_count": "16268"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "1995",
+            "Migration_count": "128926"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "1996",
+            "Migration_count": "125469"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "1997",
+            "Migration_count": "125132"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "1998",
+            "Migration_count": "127206"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "1999",
+            "Migration_count": "124516"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2000",
+            "Migration_count": "120499"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2001",
+            "Migration_count": "118573"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2002",
+            "Migration_count": "119158"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2003",
+            "Migration_count": "116060"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2004",
+            "Migration_count": "115428"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2005",
+            "Migration_count": "112558"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2006",
+            "Migration_count": "109164"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2007",
+            "Migration_count": "112739"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2008",
+            "Migration_count": "105959"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2009",
+            "Migration_count": "115054"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "5",
+            "year": "2010",
+            "Migration_count": "114033"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "1995",
+            "Migration_count": "201422"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "1996",
+            "Migration_count": "199121"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "1997",
+            "Migration_count": "202646"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "1998",
+            "Migration_count": "203556"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "1999",
+            "Migration_count": "200608"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2000",
+            "Migration_count": "187387"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2001",
+            "Migration_count": "188163"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2002",
+            "Migration_count": "191022"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2003",
+            "Migration_count": "187481"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2004",
+            "Migration_count": "188478"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2005",
+            "Migration_count": "186108"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2006",
+            "Migration_count": "179106"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2007",
+            "Migration_count": "183658"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2008",
+            "Migration_count": "172141"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2009",
+            "Migration_count": "188462"
+        },
+        {
+            "origin_cluster": "1",
+            "destination_cluster": "6",
+            "year": "2010",
+            "Migration_count": "186460"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "1995",
+            "Migration_count": "39780"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "1996",
+            "Migration_count": "42380"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "1997",
+            "Migration_count": "46058"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "1998",
+            "Migration_count": "50143"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "1999",
+            "Migration_count": "52414"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2000",
+            "Migration_count": "57079"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2001",
+            "Migration_count": "60950"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2002",
+            "Migration_count": "61092"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2003",
+            "Migration_count": "59284"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2004",
+            "Migration_count": "57353"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2005",
+            "Migration_count": "57237"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2006",
+            "Migration_count": "59243"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2007",
+            "Migration_count": "61194"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2008",
+            "Migration_count": "61246"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2009",
+            "Migration_count": "58669"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "1",
+            "year": "2010",
+            "Migration_count": "55534"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "1995",
+            "Migration_count": "74841"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "1996",
+            "Migration_count": "82383"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "1997",
+            "Migration_count": "85034"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "1998",
+            "Migration_count": "85208"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "1999",
+            "Migration_count": "82942"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2000",
+            "Migration_count": "80606"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2001",
+            "Migration_count": "79273"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2002",
+            "Migration_count": "75985"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2003",
+            "Migration_count": "74279"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2004",
+            "Migration_count": "74746"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2005",
+            "Migration_count": "73294"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2006",
+            "Migration_count": "69321"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2007",
+            "Migration_count": "70952"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2008",
+            "Migration_count": "73408"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2009",
+            "Migration_count": "73441"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "2",
+            "year": "2010",
+            "Migration_count": "75073"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "1995",
+            "Migration_count": "11377"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "1996",
+            "Migration_count": "12053"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "1997",
+            "Migration_count": "11726"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "1998",
+            "Migration_count": "13074"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "1999",
+            "Migration_count": "14349"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2000",
+            "Migration_count": "15493"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2001",
+            "Migration_count": "17048"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2002",
+            "Migration_count": "15970"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2003",
+            "Migration_count": "17116"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2004",
+            "Migration_count": "15629"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2005",
+            "Migration_count": "15206"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2006",
+            "Migration_count": "15411"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2007",
+            "Migration_count": "15143"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2008",
+            "Migration_count": "15312"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2009",
+            "Migration_count": "14221"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "3",
+            "year": "2010",
+            "Migration_count": "13579"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "1995",
+            "Migration_count": "33878"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "1996",
+            "Migration_count": "41210"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "1997",
+            "Migration_count": "47185"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "1998",
+            "Migration_count": "51210"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "1999",
+            "Migration_count": "52452"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2000",
+            "Migration_count": "55818"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2001",
+            "Migration_count": "58071"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2002",
+            "Migration_count": "57003"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2003",
+            "Migration_count": "61133"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2004",
+            "Migration_count": "61935"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2005",
+            "Migration_count": "66018"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2006",
+            "Migration_count": "65637"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2007",
+            "Migration_count": "64982"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2008",
+            "Migration_count": "67682"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2009",
+            "Migration_count": "68010"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "4",
+            "year": "2010",
+            "Migration_count": "67198"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "1995",
+            "Migration_count": "60331"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "1996",
+            "Migration_count": "54911"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "1997",
+            "Migration_count": "52382"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "1998",
+            "Migration_count": "56411"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "1999",
+            "Migration_count": "59346"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2000",
+            "Migration_count": "65247"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2001",
+            "Migration_count": "69917"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2002",
+            "Migration_count": "65063"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2003",
+            "Migration_count": "58546"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2004",
+            "Migration_count": "53982"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2005",
+            "Migration_count": "49469"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2006",
+            "Migration_count": "47814"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2007",
+            "Migration_count": "48415"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2008",
+            "Migration_count": "48063"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2009",
+            "Migration_count": "43923"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "5",
+            "year": "2010",
+            "Migration_count": "42725"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "1995",
+            "Migration_count": "31000"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "1996",
+            "Migration_count": "29205"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "1997",
+            "Migration_count": "29697"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "1998",
+            "Migration_count": "33532"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "1999",
+            "Migration_count": "37071"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2000",
+            "Migration_count": "42553"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2001",
+            "Migration_count": "50272"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2002",
+            "Migration_count": "44882"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2003",
+            "Migration_count": "38616"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2004",
+            "Migration_count": "35334"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2005",
+            "Migration_count": "32305"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2006",
+            "Migration_count": "31214"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2007",
+            "Migration_count": "31937"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2008",
+            "Migration_count": "31104"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2009",
+            "Migration_count": "27300"
+        },
+        {
+            "origin_cluster": "2",
+            "destination_cluster": "6",
+            "year": "2010",
+            "Migration_count": "25026"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "1995",
+            "Migration_count": "34217"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "1996",
+            "Migration_count": "37177"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "1997",
+            "Migration_count": "38252"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "1998",
+            "Migration_count": "40270"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "1999",
+            "Migration_count": "41239"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2000",
+            "Migration_count": "42083"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2001",
+            "Migration_count": "42509"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2002",
+            "Migration_count": "40865"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2003",
+            "Migration_count": "40589"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2004",
+            "Migration_count": "41480"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2005",
+            "Migration_count": "43260"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2006",
+            "Migration_count": "46332"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2007",
+            "Migration_count": "48264"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2008",
+            "Migration_count": "50860"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2009",
+            "Migration_count": "49614"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "1",
+            "year": "2010",
+            "Migration_count": "50043"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "1995",
+            "Migration_count": "10792"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "1996",
+            "Migration_count": "10745"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "1997",
+            "Migration_count": "11055"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "1998",
+            "Migration_count": "10567"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "1999",
+            "Migration_count": "10374"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2000",
+            "Migration_count": "9998"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2001",
+            "Migration_count": "10956"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2002",
+            "Migration_count": "11263"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2003",
+            "Migration_count": "10533"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2004",
+            "Migration_count": "9633"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2005",
+            "Migration_count": "9388"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2006",
+            "Migration_count": "9068"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2007",
+            "Migration_count": "9288"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2008",
+            "Migration_count": "9503"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2009",
+            "Migration_count": "9611"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "2",
+            "year": "2010",
+            "Migration_count": "9636"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "1995",
+            "Migration_count": "14781"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "1996",
+            "Migration_count": "14839"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "1997",
+            "Migration_count": "15448"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "1998",
+            "Migration_count": "15752"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "1999",
+            "Migration_count": "16186"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2000",
+            "Migration_count": "15922"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2001",
+            "Migration_count": "16577"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2002",
+            "Migration_count": "15943"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2003",
+            "Migration_count": "16312"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2004",
+            "Migration_count": "16266"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2005",
+            "Migration_count": "16336"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2006",
+            "Migration_count": "17173"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2007",
+            "Migration_count": "17966"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2008",
+            "Migration_count": "18293"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2009",
+            "Migration_count": "18860"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "3",
+            "year": "2010",
+            "Migration_count": "18705"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "1995",
+            "Migration_count": "5550"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "1996",
+            "Migration_count": "5596"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "1997",
+            "Migration_count": "5601"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "1998",
+            "Migration_count": "5323"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "1999",
+            "Migration_count": "5289"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2000",
+            "Migration_count": "5600"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2001",
+            "Migration_count": "5567"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2002",
+            "Migration_count": "5866"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2003",
+            "Migration_count": "6123"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2004",
+            "Migration_count": "5926"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2005",
+            "Migration_count": "5899"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2006",
+            "Migration_count": "6145"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2007",
+            "Migration_count": "6464"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2008",
+            "Migration_count": "6587"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2009",
+            "Migration_count": "6763"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "4",
+            "year": "2010",
+            "Migration_count": "6838"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "1995",
+            "Migration_count": "102607"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "1996",
+            "Migration_count": "100979"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "1997",
+            "Migration_count": "103865"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "1998",
+            "Migration_count": "104722"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "1999",
+            "Migration_count": "104497"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2000",
+            "Migration_count": "99945"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2001",
+            "Migration_count": "97716"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2002",
+            "Migration_count": "96648"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2003",
+            "Migration_count": "94698"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2004",
+            "Migration_count": "93474"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2005",
+            "Migration_count": "89255"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2006",
+            "Migration_count": "87386"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2007",
+            "Migration_count": "88195"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2008",
+            "Migration_count": "90449"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2009",
+            "Migration_count": "92720"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "5",
+            "year": "2010",
+            "Migration_count": "93471"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "1995",
+            "Migration_count": "79167"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "1996",
+            "Migration_count": "79177"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "1997",
+            "Migration_count": "79397"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "1998",
+            "Migration_count": "79082"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "1999",
+            "Migration_count": "79671"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2000",
+            "Migration_count": "75579"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2001",
+            "Migration_count": "75368"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2002",
+            "Migration_count": "73126"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2003",
+            "Migration_count": "71398"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2004",
+            "Migration_count": "70824"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2005",
+            "Migration_count": "70089"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2006",
+            "Migration_count": "68420"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2007",
+            "Migration_count": "69958"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2008",
+            "Migration_count": "72144"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2009",
+            "Migration_count": "72154"
+        },
+        {
+            "origin_cluster": "3",
+            "destination_cluster": "6",
+            "year": "2010",
+            "Migration_count": "74183"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "1995",
+            "Migration_count": "14995"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "1996",
+            "Migration_count": "15934"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "1997",
+            "Migration_count": "16814"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "1998",
+            "Migration_count": "18419"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "1999",
+            "Migration_count": "19532"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2000",
+            "Migration_count": "21528"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2001",
+            "Migration_count": "23289"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2002",
+            "Migration_count": "22026"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2003",
+            "Migration_count": "20590"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2004",
+            "Migration_count": "20485"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2005",
+            "Migration_count": "20648"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2006",
+            "Migration_count": "22178"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2007",
+            "Migration_count": "23148"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2008",
+            "Migration_count": "24614"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2009",
+            "Migration_count": "23510"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "1",
+            "year": "2010",
+            "Migration_count": "22605"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "1995",
+            "Migration_count": "74499"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "1996",
+            "Migration_count": "88860"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "1997",
+            "Migration_count": "93103"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "1998",
+            "Migration_count": "84299"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "1999",
+            "Migration_count": "69021"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2000",
+            "Migration_count": "60044"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2001",
+            "Migration_count": "55832"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2002",
+            "Migration_count": "52857"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2003",
+            "Migration_count": "51046"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2004",
+            "Migration_count": "49997"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2005",
+            "Migration_count": "47940"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2006",
+            "Migration_count": "44363"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2007",
+            "Migration_count": "45467"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2008",
+            "Migration_count": "46009"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2009",
+            "Migration_count": "47913"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "2",
+            "year": "2010",
+            "Migration_count": "47066"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "1995",
+            "Migration_count": "5255"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "1996",
+            "Migration_count": "5401"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "1997",
+            "Migration_count": "5816"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "1998",
+            "Migration_count": "6497"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "1999",
+            "Migration_count": "7082"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2000",
+            "Migration_count": "7359"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2001",
+            "Migration_count": "7988"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2002",
+            "Migration_count": "7536"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2003",
+            "Migration_count": "7500"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2004",
+            "Migration_count": "7275"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2005",
+            "Migration_count": "7383"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2006",
+            "Migration_count": "7688"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2007",
+            "Migration_count": "7629"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2008",
+            "Migration_count": "8097"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2009",
+            "Migration_count": "7873"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "3",
+            "year": "2010",
+            "Migration_count": "7529"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "1995",
+            "Migration_count": "10036"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "1996",
+            "Migration_count": "10146"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "1997",
+            "Migration_count": "11111"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "1998",
+            "Migration_count": "11337"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "1999",
+            "Migration_count": "10676"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2000",
+            "Migration_count": "11399"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2001",
+            "Migration_count": "11203"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2002",
+            "Migration_count": "11548"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2003",
+            "Migration_count": "12063"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2004",
+            "Migration_count": "12237"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2005",
+            "Migration_count": "13095"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2006",
+            "Migration_count": "13498"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2007",
+            "Migration_count": "14113"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2008",
+            "Migration_count": "15072"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2009",
+            "Migration_count": "15682"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "4",
+            "year": "2010",
+            "Migration_count": "16118"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "1995",
+            "Migration_count": "31158"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "1996",
+            "Migration_count": "30466"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "1997",
+            "Migration_count": "29935"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "1998",
+            "Migration_count": "31834"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "1999",
+            "Migration_count": "31494"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2000",
+            "Migration_count": "29230"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2001",
+            "Migration_count": "30381"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2002",
+            "Migration_count": "31645"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2003",
+            "Migration_count": "28934"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2004",
+            "Migration_count": "27614"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2005",
+            "Migration_count": "26452"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2006",
+            "Migration_count": "25245"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2007",
+            "Migration_count": "25863"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2008",
+            "Migration_count": "26018"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2009",
+            "Migration_count": "25438"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "5",
+            "year": "2010",
+            "Migration_count": "24583"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "1995",
+            "Migration_count": "14455"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "1996",
+            "Migration_count": "14313"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "1997",
+            "Migration_count": "14412"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "1998",
+            "Migration_count": "16011"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "1999",
+            "Migration_count": "17289"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2000",
+            "Migration_count": "18002"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2001",
+            "Migration_count": "20907"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2002",
+            "Migration_count": "19204"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2003",
+            "Migration_count": "16412"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2004",
+            "Migration_count": "15862"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2005",
+            "Migration_count": "14582"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2006",
+            "Migration_count": "14115"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2007",
+            "Migration_count": "14521"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2008",
+            "Migration_count": "15353"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2009",
+            "Migration_count": "14042"
+        },
+        {
+            "origin_cluster": "4",
+            "destination_cluster": "6",
+            "year": "2010",
+            "Migration_count": "12998"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "1995",
+            "Migration_count": "104217"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "1996",
+            "Migration_count": "109607"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "1997",
+            "Migration_count": "111954"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "1998",
+            "Migration_count": "112822"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "1999",
+            "Migration_count": "115198"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2000",
+            "Migration_count": "113098"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2001",
+            "Migration_count": "115229"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2002",
+            "Migration_count": "113882"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2003",
+            "Migration_count": "117803"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2004",
+            "Migration_count": "117687"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2005",
+            "Migration_count": "124823"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2006",
+            "Migration_count": "135282"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2007",
+            "Migration_count": "129953"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2008",
+            "Migration_count": "135073"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2009",
+            "Migration_count": "134160"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "1",
+            "year": "2010",
+            "Migration_count": "135935"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "1995",
+            "Migration_count": "40080"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "1996",
+            "Migration_count": "42066"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "1997",
+            "Migration_count": "40905"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "1998",
+            "Migration_count": "38325"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "1999",
+            "Migration_count": "38684"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2000",
+            "Migration_count": "35708"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2001",
+            "Migration_count": "33864"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2002",
+            "Migration_count": "34584"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2003",
+            "Migration_count": "34993"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2004",
+            "Migration_count": "34919"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2005",
+            "Migration_count": "34821"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2006",
+            "Migration_count": "33861"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2007",
+            "Migration_count": "33862"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2008",
+            "Migration_count": "34881"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2009",
+            "Migration_count": "35089"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "2",
+            "year": "2010",
+            "Migration_count": "34359"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "1995",
+            "Migration_count": "94204"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "1996",
+            "Migration_count": "93630"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "1997",
+            "Migration_count": "94160"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "1998",
+            "Migration_count": "96544"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "1999",
+            "Migration_count": "96191"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2000",
+            "Migration_count": "96976"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2001",
+            "Migration_count": "96591"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2002",
+            "Migration_count": "96787"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2003",
+            "Migration_count": "100485"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2004",
+            "Migration_count": "98402"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2005",
+            "Migration_count": "99765"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2006",
+            "Migration_count": "102102"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2007",
+            "Migration_count": "101612"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2008",
+            "Migration_count": "104864"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2009",
+            "Migration_count": "106854"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "3",
+            "year": "2010",
+            "Migration_count": "104853"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "1995",
+            "Migration_count": "24792"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "1996",
+            "Migration_count": "25459"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "1997",
+            "Migration_count": "25643"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "1998",
+            "Migration_count": "22834"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "1999",
+            "Migration_count": "24392"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2000",
+            "Migration_count": "19603"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2001",
+            "Migration_count": "18387"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2002",
+            "Migration_count": "23033"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2003",
+            "Migration_count": "23524"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2004",
+            "Migration_count": "23817"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2005",
+            "Migration_count": "23773"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2006",
+            "Migration_count": "23179"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2007",
+            "Migration_count": "23784"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2008",
+            "Migration_count": "25069"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2009",
+            "Migration_count": "25413"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "4",
+            "year": "2010",
+            "Migration_count": "25466"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "1995",
+            "Migration_count": "286908"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "1996",
+            "Migration_count": "269561"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "1997",
+            "Migration_count": "268867"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "1998",
+            "Migration_count": "264522"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "1999",
+            "Migration_count": "263993"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2000",
+            "Migration_count": "256285"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2001",
+            "Migration_count": "252620"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2002",
+            "Migration_count": "255972"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2003",
+            "Migration_count": "255259"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2004",
+            "Migration_count": "250579"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2005",
+            "Migration_count": "244600"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2006",
+            "Migration_count": "242899"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2007",
+            "Migration_count": "246821"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2008",
+            "Migration_count": "253026"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2009",
+            "Migration_count": "251355"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "5",
+            "year": "2010",
+            "Migration_count": "248216"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "1995",
+            "Migration_count": "174454"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "1996",
+            "Migration_count": "169928"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "1997",
+            "Migration_count": "168293"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "1998",
+            "Migration_count": "166763"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "1999",
+            "Migration_count": "167820"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2000",
+            "Migration_count": "163679"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2001",
+            "Migration_count": "163239"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2002",
+            "Migration_count": "161332"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2003",
+            "Migration_count": "157978"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2004",
+            "Migration_count": "156610"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2005",
+            "Migration_count": "157135"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2006",
+            "Migration_count": "158294"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2007",
+            "Migration_count": "161291"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2008",
+            "Migration_count": "165762"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2009",
+            "Migration_count": "164577"
+        },
+        {
+            "origin_cluster": "5",
+            "destination_cluster": "6",
+            "year": "2010",
+            "Migration_count": "161538"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "1995",
+            "Migration_count": "158872"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "1996",
+            "Migration_count": "163730"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "1997",
+            "Migration_count": "164865"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "1998",
+            "Migration_count": "164601"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "1999",
+            "Migration_count": "163217"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2000",
+            "Migration_count": "164759"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2001",
+            "Migration_count": "164375"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2002",
+            "Migration_count": "163440"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2003",
+            "Migration_count": "170662"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2004",
+            "Migration_count": "169217"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2005",
+            "Migration_count": "173543"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2006",
+            "Migration_count": "179730"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2007",
+            "Migration_count": "176483"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2008",
+            "Migration_count": "180106"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2009",
+            "Migration_count": "180666"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "1",
+            "year": "2010",
+            "Migration_count": "181686"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "1995",
+            "Migration_count": "20773"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "1996",
+            "Migration_count": "19331"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "1997",
+            "Migration_count": "18086"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "1998",
+            "Migration_count": "17966"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "1999",
+            "Migration_count": "17432"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2000",
+            "Migration_count": "17498"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2001",
+            "Migration_count": "17968"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2002",
+            "Migration_count": "18864"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2003",
+            "Migration_count": "18903"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2004",
+            "Migration_count": "19598"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2005",
+            "Migration_count": "19505"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2006",
+            "Migration_count": "18662"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2007",
+            "Migration_count": "18942"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2008",
+            "Migration_count": "19691"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2009",
+            "Migration_count": "19952"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "2",
+            "year": "2010",
+            "Migration_count": "19778"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "1995",
+            "Migration_count": "68365"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "1996",
+            "Migration_count": "68205"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "1997",
+            "Migration_count": "67751"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "1998",
+            "Migration_count": "69204"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "1999",
+            "Migration_count": "69238"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2000",
+            "Migration_count": "68430"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2001",
+            "Migration_count": "68678"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2002",
+            "Migration_count": "68702"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2003",
+            "Migration_count": "72596"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2004",
+            "Migration_count": "69226"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2005",
+            "Migration_count": "70903"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2006",
+            "Migration_count": "71285"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2007",
+            "Migration_count": "71731"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2008",
+            "Migration_count": "74122"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2009",
+            "Migration_count": "75315"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "3",
+            "year": "2010",
+            "Migration_count": "75492"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "1995",
+            "Migration_count": "11179"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "1996",
+            "Migration_count": "10648"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "1997",
+            "Migration_count": "10301"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "1998",
+            "Migration_count": "9954"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "1999",
+            "Migration_count": "9732"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2000",
+            "Migration_count": "8854"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2001",
+            "Migration_count": "9052"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2002",
+            "Migration_count": "10679"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2003",
+            "Migration_count": "11149"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2004",
+            "Migration_count": "11451"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2005",
+            "Migration_count": "11312"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2006",
+            "Migration_count": "11109"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2007",
+            "Migration_count": "11367"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2008",
+            "Migration_count": "12045"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2009",
+            "Migration_count": "12429"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "4",
+            "year": "2010",
+            "Migration_count": "12509"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "1995",
+            "Migration_count": "189791"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "1996",
+            "Migration_count": "183361"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "1997",
+            "Migration_count": "182101"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "1998",
+            "Migration_count": "182859"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "1999",
+            "Migration_count": "180463"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2000",
+            "Migration_count": "174824"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2001",
+            "Migration_count": "174630"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2002",
+            "Migration_count": "176640"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2003",
+            "Migration_count": "175749"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2004",
+            "Migration_count": "169527"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2005",
+            "Migration_count": "166292"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2006",
+            "Migration_count": "161239"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2007",
+            "Migration_count": "164238"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2008",
+            "Migration_count": "165738"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2009",
+            "Migration_count": "165075"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "5",
+            "year": "2010",
+            "Migration_count": "163239"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "1995",
+            "Migration_count": "193709"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "1996",
+            "Migration_count": "190039"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "1997",
+            "Migration_count": "189628"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "1998",
+            "Migration_count": "191378"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "1999",
+            "Migration_count": "191721"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2000",
+            "Migration_count": "185642"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2001",
+            "Migration_count": "185749"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2002",
+            "Migration_count": "184951"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2003",
+            "Migration_count": "183192"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2004",
+            "Migration_count": "180867"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2005",
+            "Migration_count": "179303"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2006",
+            "Migration_count": "177497"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2007",
+            "Migration_count": "180319"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2008",
+            "Migration_count": "184489"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2009",
+            "Migration_count": "183463"
+        },
+        {
+            "origin_cluster": "6",
+            "destination_cluster": "6",
+            "year": "2010",
+            "Migration_count": "180380"
+        }
+    ]
+}
